@@ -1,0 +1,15 @@
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\bin\Debug\net6.0\EventHandler_ICICI.exe
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\bin\Debug\net6.0\EventHandler_ICICI.deps.json
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\bin\Debug\net6.0\EventHandler_ICICI.runtimeconfig.json
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\bin\Debug\net6.0\EventHandler_ICICI.dll
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\bin\Debug\net6.0\EventHandler_ICICI.pdb
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\EventHandler_ICICI.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\EventHandler_ICICI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\EventHandler_ICICI.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\EventHandler_ICICI.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\EventHandler_ICICI.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\EventHandler_ICICI.dll
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\refint\EventHandler_ICICI.dll
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\EventHandler_ICICI.pdb
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\EventHandler_ICICI.genruntimeconfig.cache
+C:\Users\Aditi.Patel\source\repos\EventHandler_ICICI\EventHandler_ICICI\obj\Debug\net6.0\ref\EventHandler_ICICI.dll

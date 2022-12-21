@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EventHandler_ICICI/1.0.0": {
+        "runtime": {
+          "EventHandler_ICICI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventHandler_ICICI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
